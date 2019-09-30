@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/my_ttoolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="?attr/colorPrimary"
+                android:elevation="4dp"
+                android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"/>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/instructions1"
+        android:id="@+id/textView10"
+        android:layout_marginTop="15dp"
+        android:textStyle="bold|italic"
+        android:layout_marginLeft="6dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/instructions2"
+        android:id="@+id/textView11"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginRight="6dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/instructions3"
+        android:id="@+id/textView12"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginRight="6dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/instructions4"
+        android:id="@+id/textView13"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="6dp"
+        android:layout_marginLeft="6dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/instructions5"
+        android:id="@+id/textView14"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="6dp"
+        android:layout_marginLeft="6dp" />
+
+</LinearLayout>

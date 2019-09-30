@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_instructions"
+        android:orderInCategory="100"
+        android:title="@string/instructions"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/search1"
+        android:orderInCategory="100"
+        android:title="@string/app_search"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_type"
+        android:orderInCategory="100"
+        android:title="@string/map_type"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+</menu>

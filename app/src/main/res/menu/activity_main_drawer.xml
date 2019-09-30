@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_science"
+            android:icon="@drawable/ic_lightbulb_outline_black_24dp"
+            android:title="Science and Technology" />
+        <item
+            android:id="@+id/nav_social"
+            android:icon="@drawable/ic_people_black_24dp"
+            android:title="Social Sciences" />
+        <item
+            android:id="@+id/nav_med"
+            android:icon="@drawable/ic_local_hospital_black_24dp"
+            android:title="Medical Science" />
+        <item
+            android:id="@+id/nav_hum"
+            android:icon="@drawable/ic_business_black_24dp"
+            android:title="Humanities and Education" />
+        <item
+            android:id="@+id/nav_law"
+            android:icon="@drawable/ic_school_black_24dp"
+            android:title="Law" />
+        <item
+            android:id="@+id/nav_gaz"
+            android:icon="@drawable/ic_toys_black_24dp"
+            android:title="Gazebos" />
+        <item
+            android:id="@+id/nav_stall"
+            android:icon="@drawable/ic_donut_small_black_24dp"
+            android:title="Stalls" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_restaurant_menu_black_24dp"
+            android:title="Restaurants" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_weekend_black_24dp"
+            android:title="Halls of Residence" />
+        <item
+            android:id="@+id/nav_buildings"
+            android:icon="@drawable/ic_store_mall_directory_black_24dp"
+            android:title="Important Buildings" />
+    </group>
+
+    <item android:title="Most Searched">
+        <menu>
+            <item
+                android:id="@+id/nav_Theaters"
+                android:icon="@drawable/ic_account_balance_black_24dp"
+                android:title="Major Lecture Theaters" />
+            <item
+                android:id="@+id/nav_Banks"
+                android:icon="@drawable/ic_attach_money_black_24dp"
+                android:title="Campus Banks" />
+            <item
+                android:id="@+id/nav_Libraries"
+                android:icon="@drawable/ic_local_library_black_24dp"
+                android:title="Libraries" />
+        </menu>
+    </item>
+
+</menu>

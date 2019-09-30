@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">UWI MAPS</string>
+    <string name="app_search">Quick Search</string>
+    <string name="map_type">Change Map</string>
+    <string name="search_hint">Enter location.....</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">About U.W.I MAPS</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2805308800642154/9998166429</string>
+    <string name="about">UWI MAPS v2.0</string>
+    <string name="about_the_app">About the App</string>
+    <string name="story">The aim of this application is to allow the students of the University of the West Indies Mona Campus to better navigate their way around the campus. This is done by providing the students directions to their classes or where ever they wish to be. The application uses the Google Maps API,the gps capabilities of your device and works by finding the closest building to your current location on the University campus. Once this closest point is found it plots you a step by step path to your desired destination.</string>
+    <string name="claim">Disclaimer</string>
+    <string name="claimer">This software is available free on the Google Play Store and is provided "AS IS". With this software there are no warranties expressed or implied,therefore all related purpose are hereunder disclaimed.
+In no time and in no event Keefe Inc will be liable for any damages, including but not limited to direct or indirect, special or consequencial damages arising out of, resulting from, or in any way connected with this software, whether or not based upon warranty, contract, or otherwise, whether or not injury was sustained by persons or property or otherwise and weather or not loss was sustained from, or arose out of the results or use of, the software or services provided hereunder.</string>
+
+    <string name="copy1">© 2016 - Keefe Inc</string>
+    <string name="copy2">All Rights Reserved</string>
+    <string name="copy3">Developed by Omri Hopson</string>
+    <string name="instructions">Help</string>
+    <string name="instructions1">Instructions</string>
+    <string name="instructions2">1. Press the menu button at the top left hand corner of the screen to slide the navigation draw out.</string>
+    <string name="instructions3">2. You can also swipe from left to right of the screen to slide drawer out.</string>
+    <string name="instructions4">3. Search through the list of spots on campus and select where you want to go.</string>
+    <string name="instructions5">*. For best results this application should be used on campus.</string>
+    <string name="search">Search</string>
+    <string name="settings_description">Searching String</string>
+
+
+    <string-array name="draw_array">
+        <item>Home</item>
+        <item>Science and Technology</item>
+        <item>Social Sciences</item>
+        <item>Medical Science</item>
+        <item>Humanities and Education</item>
+        <item>Law</item>
+        <item>Gazebos</item>
+        <item>Stalls</item>
+        <item>Restaurants</item>
+        <item>Halls of Residence</item>
+        <item>Important Buildings</item>
+        <item>Major Lecture Theaters</item>
+        <item>Libraries</item>
+    </string-array>
+
+
+
+</resources>
+
